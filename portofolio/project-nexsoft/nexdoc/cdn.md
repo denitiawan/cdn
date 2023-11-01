@@ -1,6 +1,15 @@
 ## home
 ![image](https://github.com/denitiawan/cdn/assets/11941308/b8740813-1ad5-48ca-9d33-9fc42a189571)
 
+
+## Sidebar menu
+![image](https://github.com/denitiawan/cdn/assets/11941308/1d916553-7ff8-4dda-afa1-323cd43abcd2)
+
+## Project Menus
+![image](https://github.com/denitiawan/cdn/assets/11941308/aef6d2ae-32f0-4fe1-be6f-ad13d84a2fc9)
+
+
+
 ## change logs
 ![image](https://github.com/denitiawan/cdn/assets/11941308/400f041e-42c9-4a65-a23d-f3885a173ac6)
 
