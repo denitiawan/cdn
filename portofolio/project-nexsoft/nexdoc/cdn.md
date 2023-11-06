@@ -1,17 +1,17 @@
 ## home
-![image](https://github.com/denitiawan/cdn/assets/11941308/b8740813-1ad5-48ca-9d33-9fc42a189571)
+![image](https://github.com/denitiawan/cdn/assets/11941308/55aafe1c-e4d4-4bbc-93b1-30e774eca23d)
 
 
 ## Sidebar menu
-![image](https://github.com/denitiawan/cdn/assets/11941308/1d916553-7ff8-4dda-afa1-323cd43abcd2)
+![image](https://github.com/denitiawan/cdn/assets/11941308/4a85f1b2-1b3c-466d-a282-d061ed2373dc)
+
 
 ## Project Menus
-![image](https://github.com/denitiawan/cdn/assets/11941308/aef6d2ae-32f0-4fe1-be6f-ad13d84a2fc9)
-
+![image](https://github.com/denitiawan/cdn/assets/11941308/195ffd2e-2733-41cd-8e6f-90811a68cdeb)
 
 
 ## change logs
-![image](https://github.com/denitiawan/cdn/assets/11941308/400f041e-42c9-4a65-a23d-f3885a173ac6)
+![image](https://github.com/denitiawan/cdn/assets/11941308/26f14d43-b33b-42d8-be30-3d8a85e734b0)
 
 
 ## dark mode
